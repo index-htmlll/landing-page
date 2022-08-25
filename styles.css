@@ -1,0 +1,9 @@
+body {
+    padding: 50px;
+}
+
+#main-body {
+    background-color: maroon;
+    width: 800px;
+    height: max-content;
+}
