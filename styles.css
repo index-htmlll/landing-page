@@ -5,6 +5,14 @@ body {
     color: white;
 }
 
+button {
+    background-color: green;
+    border: 0;
+    margin: 50px;
+    height: 30px;
+    border-radius: 5%;
+}
+
 #main-body {
     background-color: maroon;
     padding: 30px 20px;
